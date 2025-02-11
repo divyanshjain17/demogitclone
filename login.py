@@ -1,4 +1,10 @@
 def login():
- print("User Login Functionality")
+    print("User login functionality")
 
-login()
+login(username,password:)
+
+if username == "admin" and password == "admin123":
+        print("Login Successful")
+    else:
+        print("Invalid Credentials")
+        
